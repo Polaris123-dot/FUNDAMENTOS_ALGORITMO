@@ -1,0 +1,15 @@
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\bin\Debug\net10.0\PROBLEMA 2.exe
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\bin\Debug\net10.0\PROBLEMA 2.deps.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\bin\Debug\net10.0\PROBLEMA 2.runtimeconfig.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\bin\Debug\net10.0\PROBLEMA 2.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\bin\Debug\net10.0\PROBLEMA 2.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.AssemblyInfoInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.AssemblyInfo.cs
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.csproj.CoreCompileInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.sourcelink.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\refint\PROBLEMA 2.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\PROBLEMA 2.genruntimeconfig.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA 2\C SHARD\PROBLEMA 2\obj\Debug\net10.0\ref\PROBLEMA 2.dll

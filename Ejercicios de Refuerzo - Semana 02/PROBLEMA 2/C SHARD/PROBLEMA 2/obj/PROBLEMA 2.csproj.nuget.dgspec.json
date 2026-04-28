@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\Ejercicios de Refuerzo - Semana 02\\PROBLEMA 2\\C SHARD\\PROBLEMA 2\\PROBLEMA 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\Ejercicios de Refuerzo - Semana 02\\PROBLEMA 2\\C SHARD\\PROBLEMA 2\\PROBLEMA 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\Ejercicios de Refuerzo - Semana 02\\PROBLEMA 2\\C SHARD\\PROBLEMA 2\\PROBLEMA 2.csproj",
+        "projectName": "PROBLEMA 2",
+        "projectPath": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\Ejercicios de Refuerzo - Semana 02\\PROBLEMA 2\\C SHARD\\PROBLEMA 2\\PROBLEMA 2.csproj",
         "packagesPath": "C:\\Users\\Polaris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Polaris\\Documents\\GitHub\\FUNDAMENTOS_ALGORITMO\\Ejercicios de Refuerzo - Semana 02\\PROBLEMA 2\\C SHARD\\PROBLEMA 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Polaris\\AppData\\Roaming\\NuGet\\NuGet.Config"
