@@ -1,0 +1,15 @@
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\bin\Debug\net10.0\RETO PROBLEMA IMC.exe
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\bin\Debug\net10.0\RETO PROBLEMA IMC.deps.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\bin\Debug\net10.0\RETO PROBLEMA IMC.runtimeconfig.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\bin\Debug\net10.0\RETO PROBLEMA IMC.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\bin\Debug\net10.0\RETO PROBLEMA IMC.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.AssemblyInfoInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.AssemblyInfo.cs
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.csproj.CoreCompileInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.sourcelink.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\refint\RETO PROBLEMA IMC.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\RETO PROBLEMA IMC.genruntimeconfig.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercicios de Refuerzo - Semana 02\PROBLEMA RETO\C SHARD\RETO PROBLEMA IMC\obj\Debug\net10.0\ref\RETO PROBLEMA IMC.dll
