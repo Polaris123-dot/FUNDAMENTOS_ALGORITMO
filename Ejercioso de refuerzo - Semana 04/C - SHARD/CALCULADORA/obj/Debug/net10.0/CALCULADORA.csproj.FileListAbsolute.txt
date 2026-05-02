@@ -1,0 +1,15 @@
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\bin\Debug\net10.0\CALCULADORA.exe
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\bin\Debug\net10.0\CALCULADORA.deps.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\bin\Debug\net10.0\CALCULADORA.runtimeconfig.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\bin\Debug\net10.0\CALCULADORA.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\bin\Debug\net10.0\CALCULADORA.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.AssemblyInfo.cs
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.sourcelink.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\refint\CALCULADORA.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\CALCULADORA.genruntimeconfig.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\CALCULADORA\obj\Debug\net10.0\ref\CALCULADORA.dll

@@ -1,0 +1,15 @@
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\bin\Debug\net10.0\reto.exe
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\bin\Debug\net10.0\reto.deps.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\bin\Debug\net10.0\reto.runtimeconfig.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\bin\Debug\net10.0\reto.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\bin\Debug\net10.0\reto.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.AssemblyInfoInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.AssemblyInfo.cs
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.csproj.CoreCompileInputs.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.sourcelink.json
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\refint\reto.dll
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.pdb
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\reto.genruntimeconfig.cache
+C:\Users\Polaris\Documents\GitHub\FUNDAMENTOS_ALGORITMO\Ejercioso de refuerzo - Semana 04\C - SHARD\reto\obj\Debug\net10.0\ref\reto.dll
